@@ -1,15 +1,22 @@
-### Date created
-Include the date you created this project and README file.
+### This project was created on May 16, 2020
 
-### Project Title
-Replace the Project Title
+### US Bikeshare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This application analyzes bikeshare data for Chicago, NYC and Washington, D.C.
+
+1. Asks the user to specify a city, month, and day to analyze
+2. Displays statistics on the most frequent times of travel
+3. Displays statistics on the most popular stations and trip
+4. Displays statistics on the total and average trip duration
+5. Displays statistics on bikeshare users
+6. Displays raw data
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The starter file and data for this application was provided by Udacity
