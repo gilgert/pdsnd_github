@@ -13,10 +13,10 @@ This application analyzes bikeshare data for Chicago, NYC and Washington, D.C.
 6. Displays raw data
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+1. bikeshare.py
+2. chicago.csv
+3. new_york_city.csv
+4. washington.csv
 
 ### Credits
 The starter file and data for this application was provided by Udacity
