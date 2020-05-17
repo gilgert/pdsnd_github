@@ -19,4 +19,4 @@ This application analyzes bikeshare data for Chicago, NYC and Washington, D.C.
 4. washington.csv
 
 ### Credits
-The starter file and data for this application was provided by Udacity
+The starter file and data for this application were provided by Udacity
